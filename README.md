@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaKnz
-- 👀 I’m interested in Robots.
-- 🌱 I’m currently learning C#, Java, Dart, Kotlin and Javascript 
+- 👀 I’m interested in Mobile and Web programming.
+- 🌱 I’m currently learning Html Css Javascript, Dart Flutter
 - 📫 reach me 1hamzakanza@gmail.com
 
 <!---
