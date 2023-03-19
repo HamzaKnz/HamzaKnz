@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaKnz
 - 👀 I’m interested in Mobile and Web programming.
-- 🌱 I’m currently learning Html Css Javascript, Dart Flutter
+- 🌱 I’m currently learning Flutter.
 - 📫 reach me 1hamzakanza@gmail.com
 
 <!---
