@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
   </div>
   <img src="https://komarev.com/ghpvc/?username=HamzaKnz&style=flat-square&color=red" alt=""/>
 </div>
-Hi I <strong>Hamza.</strong><br>
 Informatics Student trying to improve himself in software in Turkey.<br>
 <div>
 <ul>
