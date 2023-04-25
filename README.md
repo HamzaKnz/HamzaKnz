@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <h1><strong>My Profile</strong><br></h1>
   <div id="badges" align="center">
+      <a href="https://www.linkedin.com/in/Hamza-kanza/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="mailto:hamzaknz01@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
