@@ -12,12 +12,6 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <h1><strong>My Profile</strong><br></h1>
   <div id="badges" align="center">
-    <a href="https://discord.com/users/534471720246050835">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="https://www.youtube.com/@cloyun">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-    </a>
     <a href="mailto:hamzaknz01@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
