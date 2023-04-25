@@ -24,30 +24,30 @@ You can click the Preview link to take a look at your changes.
   </div>
   <img src="https://komarev.com/ghpvc/?username=HamzaKnz&style=flat-square&color=red" alt=""/>
 </div>
-Merhaba ben <strong>Hamza.</strong><br>
-Türkiye'de yazılımda kendini geliştirmeye çalışan Bilişim Öğrencisi.<br>
+Hi I <strong>Hamza.</strong><br>
+Informatics Student trying to improve himself in software in Turkey.<br>
 <div>
 <ul>
 </ul>
 </div>
 
 <div>
-<h2><strong>Yeteneklerim</strong></h2>
+<h2><strong>Skills</strong></h2>
 <h3>Diller:</h3>
 
-<img src='https://skillicons.dev/icons?i=php,js,html,css,python,dart,cs,go,mysql'>
+<img src='https://skillicons.dev/icons?i=php,js,html,css,python,dart,cs,mysql'>
 
-<h3>Kütüphaneler:</h3>
+<h3>Libraries:</h3>
 
-<img src='https://skillicons.dev/icons?i=nodejs,jquery,flutter,bootstrap'>
+<img src='https://skillicons.dev/icons?i=flutter,bootstrap,saas'>
 
-<h3>Programlar:</h3>
+<h3>Programs:</h3>
 
-<img src='https://skillicons.dev/icons?i=vscode,visualstudio,ps,pr,ae,blender'>
+<img src='https://skillicons.dev/icons?i=vscode,visualstudio,ps,blender'>
 </div>
 
 <div>
-<h2><strong>İstatistiklerim</strong></h2>
+<h2><strong>My stats</strong></h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=HamzaKnz&show_icons=true&theme=gradient&bg_color=0,0077B6,081844&title_color=E1E1FF&icon_color=AAAAAA&text_color=ffffff)
 
